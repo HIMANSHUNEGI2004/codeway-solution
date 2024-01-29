@@ -1,2 +1,0 @@
-# codeway-solution
-Internship Tasks
