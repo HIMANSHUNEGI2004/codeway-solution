@@ -1,1 +1,1 @@
-live preview:{https://himanshunegi2004.github.io/calci/}
+Live preview: {https://himanshunegi2004.github.io/calci/ }
